@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Clicker</string>
-    <string name="button_click">Нажми на меня!</string>
-    <string name="text_counter">0</string>
-    <string name="Down_button">-1</string>
-    <string name="restart">restart</string>
-</resources>
